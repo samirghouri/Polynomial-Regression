@@ -11,3 +11,4 @@ And then in the second step we modified the features to Polynomial with a degree
 The r2- score value also shows an increase in value with decrease in the root mean square error.
 
 Check out this link:
+https://nbviewer.jupyter.org/github/samirghouri/Polynomial-Regression/blob/master/Polynomial%20Regression.ipynb
